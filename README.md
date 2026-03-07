@@ -1,3 +1,5 @@
 Prank your friends with harmless batch scripts 😈
 
-All scripts are safe and do NOT damage the system.
+Collection of funny .bat pranks for Windows.
+
+⚠️ All scripts are harmless and do not damage the system.
